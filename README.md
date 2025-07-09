@@ -33,10 +33,6 @@ The dataset used is based on a survey of 630 participants and includes the follo
 3. Load the provided Excel dataset.
 4. Interact with the visuals to explore insights.
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./your-image-name.png)
-
 ## 📈 Insights
 
 - Python is the most favored programming language across all job titles.
